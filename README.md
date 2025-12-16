@@ -25,5 +25,3 @@ The project simulates how transportation management and analytics teams monitor 
 
 ---
 
-## 📂 Project Structure
-
